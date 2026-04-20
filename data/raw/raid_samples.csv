@@ -1,0 +1,105 @@
+text,label
+"The release may be delayed if testing is incomplete.",Risk
+"There is a chance the vendor misses the delivery deadline.",Risk
+"The launch may slip if user acceptance testing is delayed.",Risk
+"We could face outages if the server upgrade is postponed.",Risk
+"The project may exceed budget due to scope changes.",Risk
+"If the API remains unstable, integration could fail.",Risk
+"There is a risk of data loss during migration.",Risk
+"The deadline might be missed if hiring is delayed.",Risk
+"The feature could be rejected if compliance issues are found.",Risk
+"There is a possibility of performance issues under high traffic.",Risk
+"If the client delays feedback, development may slow down.",Risk
+"The application may crash if memory usage increases further.",Risk
+"Testing may not finish on time because of limited QA support.",Risk
+"There is a risk that stakeholders will change priorities mid-sprint.",Risk
+"The deployment could fail if configuration settings are incorrect.",Risk
+"Project delivery may be impacted by public holidays.",Risk
+"If the supplier misses shipment, hardware setup may be delayed.",Risk
+"There is a chance that the new workflow confuses users.",Risk
+"The release may be blocked if security review finds issues.",Risk
+"Product adoption could be low without proper onboarding.",Risk
+
+"We assume the client will provide final requirements by Friday.",Assumption
+"We assume the API contract will remain unchanged.",Assumption
+"The team expects infrastructure access to be granted this week.",Assumption
+"We believe test data will be available before development ends.",Assumption
+"It is assumed that users will complete training before rollout.",Assumption
+"We assume no major legal concerns will arise.",Assumption
+"The project assumes stable internet connectivity at all sites.",Assumption
+"We expect the vendor to support the legacy system during transition.",Assumption
+"It is assumed that the budget will remain fixed.",Assumption
+"We assume stakeholders agree with the proposed timeline.",Assumption
+"The team expects current staffing levels to remain unchanged.",Assumption
+"It is assumed that the database schema will not change again.",Assumption
+"We assume approvals will be completed within two business days.",Assumption
+"The plan assumes all teams will attend the coordination meeting.",Assumption
+"We expect users to adopt the new dashboard quickly.",Assumption
+"It is assumed that external APIs will maintain current response times.",Assumption
+"We believe the existing servers can handle the extra load.",Assumption
+"The team assumes no additional compliance requests will appear.",Assumption
+"We assume the design team will finish mockups on schedule.",Assumption
+"It is assumed that the client has validated the source data.",Assumption
+
+"Deployment depends on approval from the security team.",Dependency
+"The integration relies on the vendor API being stable.",Dependency
+"This task depends on legal approval.",Dependency
+"The rollout depends on training materials being completed.",Dependency
+"The project relies on the infrastructure team for server setup.",Dependency
+"The release depends on final sign-off from management.",Dependency
+"Data migration relies on receiving files from the client.",Dependency
+"The mobile app launch depends on app store approval.",Dependency
+"The testing phase depends on the QA environment being available.",Dependency
+"The analytics module relies on access to the production database.",Dependency
+"This feature depends on backend endpoints being completed first.",Dependency
+"The dashboard release relies on input from the design team.",Dependency
+"The deployment depends on successful firewall configuration.",Dependency
+"The billing module relies on the finance team confirming rules.",Dependency
+"The onboarding workflow depends on HR providing employee records.",Dependency
+"This deliverable depends on procurement completing the purchase order.",Dependency
+"The integration depends on authentication service readiness.",Dependency
+"The report generation feature relies on clean source data.",Dependency
+"The system upgrade depends on vendor support availability.",Dependency
+"The next sprint depends on resolving the current blocker.",Dependency
+
+"The team decided to postpone the mobile launch.",Decision
+"We decided to use PostgreSQL for the database.",Decision
+"The project team agreed to release feature A before feature B.",Decision
+"It was decided to extend the testing period by one week.",Decision
+"The team chose to remove the legacy module.",Decision
+"We decided to move forward with the cloud deployment option.",Decision
+"The stakeholders agreed to prioritize security fixes first.",Decision
+"The team selected React for the frontend implementation.",Decision
+"It was decided that weekly reviews would continue on Fridays.",Decision
+"The project manager approved the revised timeline.",Decision
+"The team agreed to split the release into two phases.",Decision
+"We decided not to support older browser versions.",Decision
+"The architecture group approved the microservices approach.",Decision
+"It was decided to delay integration until next sprint.",Decision
+"The team chose to automate regression testing.",Decision
+"Management approved additional budget for infrastructure.",Decision
+"The client agreed to reduce the project scope.",Decision
+"The team confirmed that feature flags will be used for rollout.",Decision
+"It was decided to assign one owner per workstream.",Decision
+"The steering committee approved the final proposal.",Decision
+
+"Weekly project sync is scheduled for Monday.",Other
+"The dashboard was updated this morning.",Other
+"The team completed the user profile page.",Other
+"A meeting invitation was sent to all stakeholders.",Other
+"The latest build was uploaded to the shared drive.",Other
+"The design review is planned for Thursday afternoon.",Other
+"The documentation has been published internally.",Other
+"The QA team finished the smoke test yesterday.",Other
+"The project status was shared in the group chat.",Other
+"The team is currently working on bug fixes.",Other
+"The sprint board has been updated.",Other
+"The backend service is running normally.",Other
+"The client meeting lasted one hour.",Other
+"A new branch was created for the feature.",Other
+"The release notes were drafted by the product manager.",Other
+"The application homepage has been redesigned.",Other
+"The database backup completed successfully.",Other
+"The engineers discussed the issue during standup.",Other
+"The prototype was shown in today's review session.",Other
+"The team is preparing slides for the demo.",Other
